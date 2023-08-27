@@ -1,8 +1,7 @@
 # Computer Usage in Kenyan School Project
 ## Data Collection, Analysis, and Reporting
 
-Welcome to the **Computer Usage in Kenyan School Project** repository. This project aims to investigate the integration of computers in Kenyan schools and its impact on education. The repository contains resources and documentation related to data collection, analysis, and reporting.
-
+Welcome to the **Computer Usage in Kenyan School Project** repository. This project aims to investigate the integration of computers in Kenyan schools and its impact on education. 
 
 
 ## Project Overview
